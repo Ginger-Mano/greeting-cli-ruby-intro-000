@@ -1,4 +1,2 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
-
-puts "Hi! I'm Sally, what's your name?"# code your CLI here!
